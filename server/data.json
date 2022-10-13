@@ -1,0 +1,225 @@
+{
+  "tableData": [
+    {
+      "name": "oppo",
+      "todayBuy": 500,
+      "monthBuy": 3500,
+      "totalBuy": 22000
+    },
+    {
+      "name": "vivo",
+      "todayBuy": 300,
+      "monthBuy": 2200,
+      "totalBuy": 24000
+    },
+    {
+      "name": "苹果",
+      "todayBuy": 800,
+      "monthBuy": 4500,
+      "totalBuy": 65000
+    },
+    {
+      "name": "小米",
+      "todayBuy": 1200,
+      "monthBuy": 6500,
+      "totalBuy": 45000
+    },
+    {
+      "name": "三星",
+      "todayBuy": 300,
+      "monthBuy": 2000,
+      "totalBuy": 34000
+    },
+    {
+      "name": "魅族",
+      "todayBuy": 350,
+      "monthBuy": 3000,
+      "totalBuy": 22000
+    }
+  ],
+  "countData": [
+    {
+      "name": "今日支付订单",
+      "value": 1234,
+      "icon": "success",
+      "color": "#2ec7c9"
+    },
+    {
+      "name": "今日收藏订单",
+      "value": 210,
+      "icon": "star-on",
+      "color": "#ffb980"
+    },
+    {
+      "name": "今日未支付订单",
+      "value": 1234,
+      "icon": "s-goods",
+      "color": "#5ab1ef"
+    },
+    {
+      "name": "本月支付订单",
+      "value": 1234,
+      "icon": "success",
+      "color": "#2ec7c9"
+    },
+    {
+      "name": "本月收藏订单",
+      "value": 210,
+      "icon": "star-on",
+      "color": "#ffb980"
+    },
+    {
+      "name": "本月未支付订单",
+      "value": 1234,
+      "icon": "s-goods",
+      "color": "#5ab1ef"
+    }
+  ],
+  "userData": [
+    {
+      "name": "张三",
+      "age": 18,
+      "sex": "男",
+      "birth": "2000-01-01",
+      "address": "月球",
+      "id": 1
+    },
+    {
+      "name": "李四",
+      "age": 19,
+      "sex": "男",
+      "birth": "2000-01-02",
+      "address": "北京市",
+      "id": 2
+    },
+    {
+      "name": "王五",
+      "age": 28,
+      "sex": "男",
+      "birth": "2000-01-03",
+      "address": "上海市",
+      "id": 3
+    },
+    {
+      "name": "马云",
+      "age": 38,
+      "sex": "男",
+      "birth": "2000-01-04",
+      "address": "深圳市",
+      "id": 4
+    },
+    {
+      "name": "马化腾",
+      "age": 100,
+      "sex": "男",
+      "birth": "2000-01-05",
+      "address": "深圳市",
+      "id": 5
+    },
+    {
+      "name": "马克思",
+      "age": 58,
+      "sex": "男",
+      "birth": "2000-01-06",
+      "address": "德国",
+      "id": 6
+    },
+    {
+      "name": "列宁",
+      "age": 52,
+      "sex": "男",
+      "birth": "2000-01-07",
+      "address": "苏联",
+      "id": 7
+    },
+    {
+      "name": "斯大林",
+      "age": 48,
+      "sex": "男",
+      "birth": "2000-01-07",
+      "address": "苏联",
+      "id": 8
+    },
+    {
+      "name": "赫鲁晓夫",
+      "age": 50,
+      "sex": "男",
+      "birth": "2000-01-08",
+      "address": "苏联",
+      "id": 9
+    },
+    {
+      "name": "古德里安",
+      "age": 50,
+      "sex": "男",
+      "birth": "2000-01-09",
+      "address": "德国",
+      "id": 10
+    },
+    {
+      "name": "曼施坦因",
+      "age": 58,
+      "sex": "男",
+      "birth": "2000-01-10",
+      "address": "德国",
+      "id": 11
+    },
+    {
+      "name": "隆美尔",
+      "age": 50,
+      "sex": "男",
+      "birth": "2000-01-11",
+      "address": "德国",
+      "id": 12
+    },
+    {
+      "name": "朱可夫",
+      "age": 40,
+      "sex": "男",
+      "birth": "2000-01-12",
+      "address": "苏联",
+      "id": 13
+    },
+    {
+      "name": "库兹涅佐夫",
+      "age": 55,
+      "sex": "男",
+      "birth": "2000-01-13",
+      "address": "苏联",
+      "id": 14
+    },
+    {
+      "name": "勃涅日涅夫",
+      "age": 50,
+      "sex": "男",
+      "birth": "2000-01-14",
+      "address": "苏联",
+      "id": 15
+    },
+    {
+      "name": "憨批",
+      "age": 3,
+      "sex": "男",
+      "birth": "2022-10-02",
+      "address": "月球",
+      "id": 17
+    },
+    {
+      "name": "爱新觉罗·难说",
+      "age": 20,
+      "sex": "男",
+      "birth": "2022-10-11",
+      "address": "故宫",
+      "id": 18
+    }
+  ],
+  "adminData": [
+    {
+      "id": 1,
+      "account": "admin",
+      "password": "admin",
+      "nickName": "Admin",
+      "vip": "管理员"
+    }
+  ]
+}
