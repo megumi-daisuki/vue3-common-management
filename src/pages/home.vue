@@ -50,7 +50,6 @@ import { onMounted, reactive, ref } from 'vue';
 import { useRoute } from 'vue-router';
 import { useAdminInfoStore } from '../stores'
 import { getTableData, getCountData } from '../api/api';
-import { json } from 'stream/consumers';
 let tableData = ref([]);
 let countList = ref([]);
 let admin = reactive({

@@ -1,6 +1,8 @@
 # 后台管理系统
 
-This template should help get you started developing with Vue 3 in Vite.
+技术栈：vue3+pinia+vue-router+json-server
+
+vue3的一个简单的后台管理系统，主要是对获取的后端数据进行增删改查。
 
 ## Recommended IDE Setup
 
@@ -10,19 +12,19 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## 下载依赖
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 本地运行
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### 打包
 
 ```sh
 npm run build
